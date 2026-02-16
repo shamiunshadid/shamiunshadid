@@ -1,5 +1,5 @@
 ## 💫 About Me:
-Building polished web application for businesses. <br>Focused on modern tech stack, clean code, performance and security. <br>Open for collaboration.
+Building polished web application for businesses. Focused on modern tech stack, clean code, performance and security. Open for collaboration.
 
 
 ## 🌐 Socials:
